@@ -13,9 +13,9 @@
 💡 **Inspiration Quote**: "Classes are the building blocks of a great code structure."
 
 📖 **Learning Resources**:
-- MDN Web Docs - Classes
-- JavaScript.info - Classes
-- Eloquent JavaScript - Classes
+1. MDN Web Docs - Classes
+2. JavaScript.info - Classes
+3. Eloquent JavaScript - Classes
 
 **MDN Web Docs - Classes**:
 
@@ -33,7 +33,9 @@ It's known for its clear explanations and interactive examples.
 The Classes chapter in Eloquent JavaScript covers the basics of object-oriented programming in JavaScript.
 It often includes practical exercises to reinforce learning.
 These resources complement each other well. You might consider going through the MDN Web Docs for a solid foundation, then exploring JavaScript.info for a deeper understanding, and finally, using Eloquent JavaScript for practical exercises to reinforce your knowledge.
-[Third edition](https://eloquentjavascript.net/)
+
+[Third edition](https://eloquentjavascript.net/)![Alt Text](images/eloquentJS.png)
+
 
 ## Modules
 
